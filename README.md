@@ -18,10 +18,10 @@ Before running the server, make sure the following are installed on your system:
 Once all dependencies are installed, running the server is straightforward:
 
 ```bash
-java -jar build/libs/mobile-remote-server.jar
+java -jar MobileRemoteServer.jar
 ```
 
-📝 **Note:** On Windows, ensure that `nircmd.exe` is available in your `PATH` or in the project directory to avoid runtime errors.
+📝 **Note:** Ensure that `nircmd.exe` is available in your `PATH` or in the project directory to avoid runtime errors.
 
 ---
 
