@@ -10,7 +10,6 @@ Before running the server, make sure the following are installed on your system:
 
 - ✅ **Java 17 or higher**
 - 🪟 **[NirCmd](https://www.nirsoft.net/utils/nircmd.html)** (Windows only)
-- 🧰 **Kotlin + Spring Boot dependencies** (managed via Gradle/Maven)
 
 ---
 
