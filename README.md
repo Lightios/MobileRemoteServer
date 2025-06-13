@@ -1,6 +1,6 @@
 # 🖥️ Remote Mobile Server
 
-A lightweight Kotlin-based server built with Spring Boot. I have built it along with **[Remote Mobile Client](https://github.com/Lightios/MobileRemoteClient), that allows you to control the playback with your Android powered smartphone.
+A lightweight Kotlin-based server built with Spring Boot. I have built it along with **[Remote Mobile Client](https://github.com/Lightios/MobileRemoteClient)**, that allows you to control the playback with your Android powered smartphone.
 
 ---
 
